@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1518803086 source:/home/max/Desktop/C programming/snakeOnline/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+
